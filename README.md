@@ -20,4 +20,4 @@ In this game, the player takes on the role of the President. That has to manage 
 
 - Natthawee Koengfak ([etnk125](https://github.com/etnk125))
 - Nicharee Chalermsuksri ([nnichar](https://github.com/nnichar)) 
-- Wasawat Pengprakhon
+- Phuwit Chantafong
