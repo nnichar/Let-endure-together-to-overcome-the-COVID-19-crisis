@@ -6,7 +6,7 @@ In this game, the player takes on the role of the President. That has to manage 
 
 ## Requirements
 
-1. Choose 1 Data Structure to implement (Linked List / BST)
+1. Choose 1 data structure to implement (Linked List / BST)
 2. Has a sorting algorithm
 3. Use class with constructor
 4. Use Polymorphism
